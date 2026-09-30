@@ -10,6 +10,7 @@ Cutscene & Judder Fixes: Resolved issues with cutscene flickering and frame judd
 Expanded Display Compatibility: Supports multiple stereo output formats based on your setup.
 
 🎮 Tested & Supported Games
+
 Dead Rising Deluxe Remaster
 
 Dragon's Dogma 2

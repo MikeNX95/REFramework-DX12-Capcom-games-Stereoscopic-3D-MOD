@@ -34,6 +34,7 @@ Resident Evil Village
 Street Fighter 6
 
 **🛠️ Installation Guide**
+
 Extract the contents of the downloaded .zip file.
 
 Copy dinput8.dll into the main directory of your game (where game.exe is located).
@@ -46,7 +47,8 @@ Check Enable 3D.
 
 Select the Stereo output mode that matches your display or setup.
 
-**⚙️ Troubleshooting & Recommended Settings**
+# **⚙️ Troubleshooting & Recommended Settings**
+
 DLSS Issues: If you experience graphics bugs while using DLSS, switch your Anti-Aliasing to TAA and set the graphics Quality to High.
 
 Would you like to add additional sections to this template, such as specific keybindings, VR overlay setup, or support/donation links?

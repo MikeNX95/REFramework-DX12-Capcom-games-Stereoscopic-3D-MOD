@@ -49,7 +49,9 @@ Select the Stereo output mode that matches your display or setup.
 
 # **⚙️ Troubleshooting & Recommended Settings**
 
-DLSS Issues: If you experience graphics bugs while using DLSS, switch your Anti-Aliasing to TAA and set the graphics Quality to High.
+DLSS Issues: If you experience graphics bugs while using DLSS, switch to TAA
+Motion Blur = OFF
+VSYNC = OFF
 
-Would you like to add additional sections to this template, such as specific keybindings, VR overlay setup, or support/donation links?
+
 

@@ -9,31 +9,21 @@ Cutscene & Judder Fixes: Resolved issues with cutscene flickering and frame judd
 
 Expanded Display Compatibility: Supports multiple stereo output formats based on your setup.
 
-🎮 Tested & Supported Games
+#🎮 Tested & Supported Games
 
 Dead Rising Deluxe Remaster
-
 Dragon's Dogma 2
-
 Kunitsu-Gami: Path of the Goddess
-
 Monster Hunter Rise
-
 Monster Hunter Wilds
-
 Onimusha: Way of the Sword
-
 Pragmata
-
 Resident Evil 4 (2023)
-
 Resident Evil Requiem
-
 Resident Evil Village
-
 Street Fighter 6
 
-🛠️ Installation Guide
+#🛠️ Installation Guide
 Extract the contents of the downloaded .zip file.
 
 Copy dinput8.dll into the main directory of your game (where game.exe is located).
@@ -46,7 +36,7 @@ Check Enable 3D.
 
 Select the Stereo output mode that matches your display or setup.
 
-⚙️ Troubleshooting & Recommended Settings
+#⚙️ Troubleshooting & Recommended Settings
 DLSS Issues: If you experience graphics bugs while using DLSS, switch your Anti-Aliasing to TAA and set the graphics Quality to High.
 
 Would you like to add additional sections to this template, such as specific keybindings, VR overlay setup, or support/donation links?

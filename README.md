@@ -49,9 +49,24 @@ Select the Stereo output mode that matches your display or setup.
 
 # **⚙️ Troubleshooting & Recommended Settings**
 
-DLSS Issues: If you experience graphics bugs while using DLSS, switch to TAA
+Anti-Aliasing: Switch to TAA (if you experience bugs or artifacts with DLSS)
+
 Motion Blur = OFF
+
 VSYNC = OFF
+
+Display Mode: Exclusive Fullscreen or Borderless Windowed (matching your 3D output display)
+
+
+# **💬 Feedback & Support**
+Bug Reports & Issues: Report bugs or test results in the comments section or on the GitHub Issues page.
+
+Support the Project: If you enjoy the mod and want to support ongoing development across new releases:
+
+Patreon: [patreon.com/your-link-here](https://patreon.com/your-link-here)
+
+PayPal: [ko-fi.com/your-link-here](https://ko-fi.com/your-link-here)
+
 
 
 

@@ -1,5 +1,6 @@
-# REFramework-DX12-Capcom-games-Stereoscopic-3D-MOD
-A unified Stereoscopic 3D build supporting almost all REFramework DX12 Capcom games
+# # REFramework DX12 Capcom Games Stereoscopic 3D MOD
+
+A unified Stereoscopic 3D build supporting almost all REFramework DX12 Capcom games.
 <img width="1408" height="768" alt="Gemini_Generated_Image_jq3toejq3toejq3t" src="https://github.com/user-attachments/assets/2a71ff3b-aa99-407d-b732-482fdde27efc" />
 
 ### 🚀 Key Features & Updates
@@ -59,7 +60,10 @@ A unified Stereoscopic 3D build supporting almost all REFramework DX12 Capcom ga
 | :--- | :--- | :--- |
 | 🐛 **Bug Reports & Issues** | Report bugs, compatibility issues, or test results | [GitHub Issues](https://github.com/your-username/your-repo/issues) |
 | ❤️ **Support the Project** | Help support ongoing development and future releases | [Patreon](https://patreon.com/your-link-here) |
-PayPal: [ko-fi.com/your-link-here](https://ko-fi.com/your-link-here)
+| Platform | Link |
+| :--- | :--- |
+| 💳 **PayPal** | [paypal.me/your-link-here](https://paypal.me/your-link-here) |
+| ☕ **Ko-fi** | [ko-fi.com/your-link-here](https://ko-fi.com/your-link-here) |
 
 
 

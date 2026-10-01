@@ -9,29 +9,16 @@ Cutscene & Judder Fixes: Resolved issues with cutscene flickering and frame judd
 
 Expanded Display Compatibility: Supports multiple stereo output formats based on your setup.
 
-# **🎮 Tested & Supported Games**
+### 🎮 Tested & Supported Games
 
-Dead Rising Deluxe Remaster
-
-Dragon's Dogma 2
-
-Kunitsu-Gami: Path of the Goddess
-
-Monster Hunter Rise
-
-Monster Hunter Wilds
-
-Onimusha: Way of the Sword
-
-Pragmata
-
-Resident Evil 4 (2023)
-
-Resident Evil Requiem
-
-Resident Evil Village
-
-Street Fighter 6
+| Title | Title |
+| :--- | :--- |
+| 🧟 **Dead Rising Deluxe Remaster** | 🗡️ **Onimusha: Way of the Sword** |
+| 🐉 **Dragon's Dogma 2** | 🚀 **Pragmata** |
+| 🌸 **Kunitsu-Gami: Path of the Goddess** | 🩸 **Resident Evil 4 (2023)** |
+| 🦕 **Monster Hunter Rise** | 🏰 **Resident Evil Village** |
+| 🦖 **Monster Hunter Wilds** | ☣️ **Resident Evil Requiem** |
+| 🥊 **Street Fighter 6** | |
 
 ### 📺 Stereo Output Modes
 

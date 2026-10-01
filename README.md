@@ -33,6 +33,17 @@ Resident Evil Village
 
 Street Fighter 6
 
+### 📺 Stereo Output Modes
+
+| ID | Mode | Description / Recommended Displays |
+| :---: | :--- | :--- |
+| **1** | **Side-by-Side** | Half-SBS, 3D TVs, VR desktop viewers, and SBS players |
+| **2** | **Top / Bottom** | Over/Under 3D displays |
+| **3** | **Line Interleave** | Passive polarized 3D monitors and TVs |
+| **4** | **SR Displays** | Autostereoscopic, lenticular, and SR Displays (Samsung Odyssey, Acer ,etc.) |
+| **5** | **Checkerboard** | Legacy DLP 3D-Ready TVs |
+| **6** | **VR Full-Res** | Full per-eye resolution rendered into a dual-width canvas (`2W x H`) |
+
 # **🛠️ Installation Guide**
 
 Extract the contents of the downloaded .zip file.

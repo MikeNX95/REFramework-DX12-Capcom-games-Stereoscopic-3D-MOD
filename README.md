@@ -60,19 +60,12 @@ A unified Stereoscopic 3D build supporting almost all REFramework DX12 Capcom ga
 | :--- | :--- | :--- |
 | 🐛 **Bug Reports & Issues** | Report bugs, compatibility issues, or test results | [GitHub Issues](https://github.com/your-username/your-repo/issues) |
 | ❤️ **Support the Project** | Help support ongoing development and future releases | [Patreon](https://patreon.com/your-link-here) |
-| Platform | Link |
-| :--- | :--- |
+[Patreon](https://patreon.com/your-link-here) |
 | 💳 **PayPal** | [paypal.me/your-link-here](https://paypal.me/your-link-here) |
 | ☕ **Ko-fi** | [ko-fi.com/your-link-here](https://ko-fi.com/your-link-here) |
 
 
-## 💬 Feedback & Support
 
-* 🐛 **Bug Reports & Issues:** Report bugs or test results in the comments section or on the [GitHub Issues page](https://github.com/your-username/your-repo/issues).
-* ❤️ **Support Development:** If you enjoy the mod and want to support ongoing development across new releases:
-  * 🅿️ **Patreon:** [patreon.com/your-link-here](https://patreon.com/your-link-here)
-  * 💳 **PayPal:** [paypal.me/your-link-here](https://paypal.me/your-link-here)
-  * ☕ **Ko-fi:** [ko-fi.com/your-link-here](https://ko-fi.com/your-link-here)
 
 
 

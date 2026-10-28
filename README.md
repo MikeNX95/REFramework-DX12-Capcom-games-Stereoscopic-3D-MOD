@@ -38,9 +38,9 @@ A unified Stereoscopic 3D build supporting almost all REFramework DX12 Capcom ga
 1. Extract the contents of the downloaded `.zip` file.
 2. Copy `dinput8.dll` into the main directory of your game (where `game.exe` is located).
 3. Launch the game and open the REFramework overlay.
-4. Select the profile dropdown menu (e.g., `OnimushaStereo3D`).
-5. Check **Enable 3D**.
-6. Select the **Stereo output** mode that matches your display or setup.
+4. Check **Enable 3D**.
+5. Select the **Stereo output** mode that matches your display or setup.
+   
 
 ---
 

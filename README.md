@@ -59,7 +59,7 @@ A unified Stereoscopic 3D build supporting almost all REFramework DX12 Capcom ga
 | Category | Description | Link |
 | :--- | :--- | :--- |
 | 🐛 **Bug Reports & Issues** | Report bugs, compatibility issues, or test results | [GitHub Issues](https://github.com/your-username/your-repo/issues) |
-| ❤️ **Support the Project** | Help support ongoing development and future releases | [Patreon](https://patreon.com/your-link-here) |
+| ❤️ **Support the Project** | Help support ongoing development and future releases | [Patreon](https://patreon.com/MikeNX95) |
 | 💳 **Ko-fi**| Help support ongoing development and future releases | [Ko-fi](https://ko-fi.com/mikenx95) |
 
 
